@@ -113,6 +113,7 @@ padding:0px;
 #header {
     background: url(../img/home.jpg) no-repeat center center;
     padding: 0;
+    height:550px;
     -webkit-background-size: cover;
     background-size: cover;
     -moz-background-size: cover;
@@ -129,8 +130,18 @@ padding:0px;
         line-height: 60px;
         font-size: 45px;
         font-weight: 900;
-        padding-top: 180px;
-        padding-bottom: 35px;
+        padding-top: 20px;
+        padding-bottom: 20px;
+        color: white;
+    }
+
+
+    #header h2 {
+        line-height: 60px;
+        font-size: 35px;
+        font-weight: 900;
+        padding-top: 165px;
+        padding-bottom: 10px;
         color: white;
     }
 
