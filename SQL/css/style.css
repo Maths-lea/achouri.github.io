@@ -151,11 +151,28 @@ padding:0px;
 
     #services i {
         font-size: 80px;
-        padding: 30px;
+        padding: 10px;
         color: #333333;
     }
 
     #services h4 {
+        padding-bottom: 5px;
+        padding-top: 15px;
+    }
+/*================================
+    COMPETENCES STYLES
+==================================*/
+#competences {
+    background-color: rgba(200 , 200, 200, 1);
+}
+
+    #competences i {
+        font-size: 80px;
+        padding: 30px;
+        color: #333333;
+    }
+
+    #competences h4 {
         padding-bottom: 5px;
         padding-top: 15px;
     }
@@ -232,6 +249,17 @@ padding:0px;
 }
 
 #works .work-wrapper {
+    border: 2px solid #333333;
+    padding: 2px;
+    margin: 5px 5px 10px 5px;
+}
+
+/* =============================================================
+ formations SECTION STYLES
+ ============================================================ */
+ 
+
+#formations .work-wrapper {
     border: 2px solid #333333;
     padding: 2px;
     margin: 5px 5px 10px 5px;
