@@ -248,8 +248,8 @@ padding:0px;
 
 /* FOR CHANGING COLOR OF ACTIVE CATEGORY */
 .caegories a.active {
-    background-color: #333333;
-    border: 2px solid #333333;
+    background-color: #3cb371;
+    border: 2px solid #3cb371;
 }
 
 /* FOR TRANSITION BEAUTIFULLY */
